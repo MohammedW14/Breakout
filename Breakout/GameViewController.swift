@@ -4,7 +4,7 @@
 //
 //  Created by Student on 3/9/17.
 //  Copyright © 2017 Student. All rights reserved.
-//
+//  Mohammed
 
 import UIKit
 import SpriteKit
@@ -14,7 +14,7 @@ class GameViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-                
+        
         if let view = self.view as! SKView? {
             // Load the SKScene from 'GameScene.sks'
             if let scene = SKScene(fileNamed: "GameScene") {
